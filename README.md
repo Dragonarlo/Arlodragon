@@ -2,7 +2,7 @@
 
 
 
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
+𝙳𝚛𝚊𝚐𝚘𝚗 is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
 
 ## Key Features
 
@@ -26,13 +26,13 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 
 2. Obtain a bot session: 
 
-   [Session-1](https://zokouscan-production.up.railway.app) ; <br>
+   [Session-1](https://𝙳𝚛𝚊𝚐𝚘𝚗scan-production.up.railway.app) ; <br>
 
 
 3. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
+     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount-𝙳𝚛𝚊𝚐𝚘𝚗-english-v) to deploy the bot on **Heroku**.
 
 ## Contributions
 

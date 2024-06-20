@@ -32,11 +32,11 @@
 3. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount-𝙳𝚛𝚊𝚐𝚘𝚗-english-v) to deploy the bot on **Heroku**.
+     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount-𝙰𝚛𝚕𝚘𝚛𝚊𝚐𝚘𝚗-english-v) to deploy the bot on **Heroku**.
 
 ## Contributions
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to 𝙳𝚛𝚊𝚐𝚘𝚗 𝚖𝚍 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thinks to these persons ;
 
@@ -48,10 +48,10 @@ Contributions to Zokou are welcome! If you have ideas for new features, improvem
 
 The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot 𝙰𝚛𝚕𝚘𝚍𝚛𝚊𝚐𝚘𝚗 to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
+- [**𝙰𝚛𝚕𝚘++**](https://github.com/𝙳𝚛𝚊𝚐𝚘𝚗𝚊𝚛𝚕𝚘/𝙰𝚛𝚕𝚘𝚍𝚛𝚊𝚐𝚘𝚗/)
+- 𝙳𝚛𝚊𝚐𝚘𝚗 ᚜**](https://github.com/𝙰𝚛𝚕𝚘𝚍𝚛𝚊𝚐𝚘𝚗)
 

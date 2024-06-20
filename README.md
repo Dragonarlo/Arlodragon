@@ -1,4 +1,4 @@
-# Zokou-2.0
+# 𝗔𝗿𝗹𝗼𝗱𝗿𝗮𝗴𝗼𝗻 𝗺𝗱
 
 
 
@@ -6,23 +6,23 @@
 
 ## Key Features
 
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts.
+- **File Download:** 𝗗𝗿𝗮𝗴𝗼𝗻 can download audio and video files from links you send, making it easy to share them with your contacts.
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou.
+- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to 𝗗𝗿𝗮𝗴𝗼𝗻.
 
-- **Group Management:** Zokou offers group management features, such as adding or removing members, configuring rules, and other settings.
+- **Group Management:** 𝗗𝗿𝗮𝗴𝗼𝗻 offers group management features, such as adding or removing members, configuring rules, and other settings.
 
 - **Text to Img:** The best logos have been selected for your convenience.
 
 ## Fun Features
 
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to liven up your conversations.
+- **Jokes and Riddles:** 𝗗𝗿𝗮𝗴𝗼𝗻 comes with a collection of jokes and riddles to liven up your conversations.
 
 - **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
 
-## Get Zokou
+## Get 𝗗𝗿𝗮𝗴𝗼𝗻
 
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Luffy2ndAccount/Dragon-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
 2. Obtain a bot session: 
 

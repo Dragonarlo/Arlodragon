@@ -13,4 +13,4 @@ function Arlodragon(obj, fonctions) {
     // console.log('chargement...')
     return infoComs;
 }
-module.exports = { Arlodragon, Module: zokou, cm };
+module.exports = { Arlodragon, Module: Arlodragon, cm };

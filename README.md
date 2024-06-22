@@ -22,7 +22,7 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 
 ## Get Zokou
 
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Dragonarlo/Arlodragon)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
 2. Obtain a bot session: 
 
@@ -52,6 +52,6 @@ Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversatio
 
 ## Developers:
 
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
+- [**Djalega++**](https://github.com/Dragonarlo/Arlodragon)
+- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Dragonarlo/Arlodragon)
 

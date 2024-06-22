@@ -27,7 +27,7 @@
 
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Dragonarlo/Arlodragon"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-blue" alt="FORK BELTAH-MD REPO" width="150"></a>
+<a href="https://github.com/Dragonarlo/Arlodragon"><img src="https://img.shields.io/badge/Fork%20DRA-ON AI%20Repo-blue" alt="FORK BELTAH-MD REPO" width="150"></a>
 
 ## GET YOUR SESSION ID: 
 

@@ -26,7 +26,7 @@
 
 2. Obtain a bot session: 
 
-   [Session-1](https://zokouscan-production.up.railway.app) ; <br>
+   [Session-1](https://Dragon-aiscan-production.up.railway.app) ; <br>
 
 
 3. Deploy

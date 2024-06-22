@@ -1,17 +1,17 @@
 
-const {zokou } = require("../framework/zokou");
+const {DRA-GON AI } = require("../framework/DRAGON");
 const axios = require('axios');
 const cheerio = require('cheerio');
 let func = require('../framework/mesfonctions') ;
 let hdb = require('../bdd/hentai') ;
 
 
-zokou({
+DRAGON({
   nomCom: "hwaifu",
   categorie: "Hentai",
   reaction: "🙄"
 },
-async (origineMessage, zk, commandeOptions) => {
+async (origineMessage, AD, commandeOptions) => {
   const { repondre, ms ,verifGroupe , superUser} = commandeOptions;
 
    if (!verifGroupe && !superUser ) { repondre(`This command is reserved for groups only.`) ; return ;}
@@ -34,7 +34,7 @@ async (origineMessage, zk, commandeOptions) => {
 
 
   /////////////// hneko //////////
-zokou({
+DRAGON({
   nomCom: "trap",
   categorie: "Hentai",
   reaction: "🙄"
@@ -62,12 +62,12 @@ async (origineMessage, zk, commandeOptions) => {
   }
 });
 
-zokou({
+DRAGON({
   nomCom: "hneko",
   categorie: "Hentai",
   reaction: "🙄"
 },
-async (origineMessage, zk, commandeOptions) => {
+async (origineMessage, AD, commandeOptions) => {
   
   const { repondre, ms ,verifGroupe , superUser} = commandeOptions;
 
@@ -90,7 +90,7 @@ async (origineMessage, zk, commandeOptions) => {
 });
 
 
-zokou({
+DRAGON({
   nomCom: "blowjob",
   categorie: "Hentai",
   reaction: "🙄"
@@ -119,7 +119,7 @@ async (origineMessage, zk, commandeOptions) => {
 
 
 
-zokou({
+DRAGON({
   nomCom: "hentaivid",
   categorie: "Hentai",
   reaction: "🙄"

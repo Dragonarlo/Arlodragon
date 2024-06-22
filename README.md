@@ -1,51 +1,56 @@
-<h1 align="center"> 𝙳𝚁𝙰𝙶𝙾𝙽-𝙰𝙸  </h1>
-<p align="center">  
-
-***
- <a aria-label="𝙳𝚁𝙰𝙶𝙾𝙽-𝙰𝙸 is free to use" href="https://github.com/Dragonarlo/Arlodragon" target="_blank">
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{𝙳𝚁𝙰𝙶𝙾𝙽devs}/count.svg" alt="𝙳𝚁𝙰𝙶𝙾𝙽-𝙰𝙸 :: Visitor's Count" /></p>
-
----
+# 𝙳𝚛𝚊𝚐𝚘𝚗-𝚊𝚒
 
 
 
-<p align="center">
-  <a href="https://github.com/Dragonarlo/Arlodragon"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=gifted&logoColor=430098"></a>
+𝙳ragon-ai is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Dragon-ai is here to assist you.
 
-<p align="center">Need help? please create an <a href="[https://github.com/Dragonarlo/Arlodragon](https://github.com/Dragonarlo/Arlodragon)">issue</a></p>
+## Key Features
 
----
+- **File Download:** dragon-ai can download audio and video files from links you send, making it easy to share them with your contacts.
 
- <h3>𝙳𝚁𝙰𝙶𝙾𝙽-𝙰𝙸 Stats</h3>
+- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to dragon-ai.
 
-![𝙳𝚁𝙰𝙶𝙾𝙽-𝙰𝙸 Stats](https://github.com/Dragonarlo/Arlodragon)
+- **Group Management:** dragon-ai offers group management features, such as adding or removing members, configuring rules, and other settings.
 
+- **Text to Img:** The best logos have been selected for your convenience.
 
-    
-   
-## 𝙳𝚁𝙰𝙶𝙾𝙽 Deployment Methods
----
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Dragonarlo/Arlodragon) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions) OR BY [`SCANNING QR CODE1`](https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions) OR BY [`SCANNING QR CODE2`](https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions)** 
-3. **Deploy on [`HEROKU`](https://web.giftedtechnexus.co.ke/bots/giftedmd/deploy/platforms/heroku)**
-8. **You can visit Bot Web [`BY CLICKING HERE`](https://web.giftedtechnexus.co.ke/bots/giftedmd) for more**
-9. **All Tutorials Available [`HERE`](https://youtube.com/@giftedtechnexus)**
+## Fun Features
 
-##
----
+- **Jokes and Riddles:** dragon-ai comes with a collection of jokes and riddles to liven up your conversations.
 
+- **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
 
-- Star ⭐ repo if you like this bot.
-- If any problem, then [`Contact Me Here`](https://t.me/giftedmd)
+## Get dragon-ai
+
+1. Click on **[Fork](https://github.com/Dragonarlo/Arlodragon)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+
+2. Obtain a bot session: 
+
+   [Session-1](https://zokouscan-production.up.railway.app) ; <br>
 
 
-### I Am
-- [𝙰𝚛𝚕𝚘𝚍𝚛𝚊𝚐𝚘𝚗 Tech](https://github.com/Dragonarlo/Arlodragon) 
+3. Deploy
+   - **Heroku Deployment:**
+     1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
+     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Dragonarlo/Arlodragon) to deploy the bot on **Heroku**.
 
----
-### Credits:
-- [𝙳𝚛𝚊𝚐𝚘𝚗](https://github.com/Dragonarlo/Arlodragon)
+## Contributions
 
-### CHECK OUT MY TELEGRAM BOT MD [HERE](https://github.com/Dragonarlo/Arlodragon)
+Contributions to 𝙳𝚛𝚊𝚐𝚘𝚗-𝚊𝚒 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+
+   thinks to these persons ;
+
+   **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
+
+   **CrazyPrice** who hosted a second website for the session_id;
+
+## License
+
+The WhatsApp Bot 𝙳𝚛𝚊𝚐𝚘𝚗-𝚊𝚒 is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
+
+## Developers:
+
+- [**𝙰𝚛𝚕𝚘𝚍𝚛𝚊𝚐𝚘𝚗ᵗᵉᶜʰ++**](https://github.com/Dragonarlo/Arlodragon)
+- [**᚛𝙳𝚛𝚊𝚐𝚘𝚗-𝚊𝚒᚜**](https://github.com/Dragonarlo/Arlodragon)

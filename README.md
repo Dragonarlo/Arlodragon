@@ -22,7 +22,7 @@
 
 ## Get 𝗗𝗿𝗮𝗴𝗼𝗻
 
-1. Click on **[Fork]([https://github.com/Luffy2ndAccount/Dragon-english-v/fork](https://github.com/Dragonarlo/Arlodragon))** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork]([https://github.com/Dragonarlo/Arlodragon]())** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
 2. Obtain a bot session: 
 

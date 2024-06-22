@@ -36,7 +36,7 @@ dragon-ai is a multi-device bot designed to enhance your WhatsApp conversations 
 
 ## Contributions
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to 𝙳𝚛𝚊𝚐𝚘𝚗-𝚊𝚒 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thinks to these persons ;
 
@@ -46,7 +46,7 @@ Contributions to Zokou are welcome! If you have ideas for new features, improvem
 
 ## License
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot 𝙳𝚛𝚊𝚐𝚘𝚗-𝚊𝚒 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
 

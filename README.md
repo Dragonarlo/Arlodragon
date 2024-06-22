@@ -27,17 +27,17 @@
 
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Dragonarlo/Arlodragon"><img src="https://img.shields.io/badge/Fork%20DRA-ON AI%20Repo-blue" alt="FORK BELTAH-MD REPO" width="150"></a>
+<a href="https://github.com/Dragonarlo/Arlodragon"><img src="https://img.shields.io/badge/Fork%20DRA-ON AI%20Repo-blue" alt="FORK DRA-GON-AI REPO" width="150"></a>
 
 ## GET YOUR SESSION ID: 
 
 **CLICK HERE 👇 TO PAIR**
 
-<a href="https://pair-bel-tah-b427bf12d2e2.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://pair-DRA-GON-b427bf12d2e2.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://pair-bel-tah-b427bf12d2e2.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://pair-dra-gon-b427bf12d2e2.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 

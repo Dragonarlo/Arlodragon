@@ -32,7 +32,7 @@
 3. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**]([[](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fan-author%2FArlodragon)]()) to deploy the bot on **Heroku**.
+     2. Click [**here**]([[](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fan-author%2FArlodragon)](https://github.com/Dragonarlo/Arlodragon)) to deploy the bot on **Heroku**.
 
 ## Contributions
 

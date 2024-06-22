@@ -41,7 +41,7 @@
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
-<a href="https://www.youtube.com/@Beltahtech2024"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-red" alt="FULL TUTORIAL HERE" width="150"></a>
+<a href="https://www.youtube.com/@Arlodragon2024"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-red" alt="FULL TUTORIAL HERE" width="150"></a>
 
 
 ## 4. DEPLOY NOW ON HEROKU 

@@ -35,7 +35,7 @@ router.get('/', async (req, res) => {
                 logger: pino({level: "fatal"}).child({level: "fatal"}),
                 browser: ["Chrome (Linux)", "", ""]
              });
-             if(!Pair_Code_By_Dragon_Ai.authState.creds.registered) {
+             if(!Pair_Code_By_Dra-gon_Ai.authState.creds.registered) {
                 await delay(1500);
                         num = num.replace(/[^0-9]/g,'');
                             const code = await Pair_Code_By_Maher_Zubair.requestPairingCode(num)

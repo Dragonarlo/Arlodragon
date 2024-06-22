@@ -52,6 +52,6 @@ Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversatio
 
 ## Developers:
 
-- [**Djalega++**](https://github.com/Dragonarlo/Arlodragon)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Dragonarlo/Arlodragon)
+- [**𝙰𝚛𝚕𝚘𝚍𝚛𝚊𝚐𝚘𝚗ᵗᵉᶜʰ++**](https://github.com/Dragonarlo/Arlodragon)
+- [**᚛𝙳𝚛𝚊𝚐𝚘𝚗-𝚊𝚒᚜**](https://github.com/Dragonarlo/Arlodragon)
 

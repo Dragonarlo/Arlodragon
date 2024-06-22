@@ -20,8 +20,8 @@
 <p align="center">
 <a href="https://github.com/Dragonarlo?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahmd?label=Followers&style=social"></a>
 <a href="https://github.com/Dragonarlo/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Dragonarlo/Arlodragon?&style=social"></a>
-<a href="https://github.com/Arlodragon/Dragonarlo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arlodragon/dragonarlo?style=social"></a>
-<a href="https://github.com/Arlodragon/dragonarlo/watchers"><img title="Watching" src="https://img.shields.io/github/watchersDragonarlo/Arlodragon?label=Watching&style=social"></a>
+<a href="https://github.com/Dragonarlo/Arlodragon"><img title="Forks" src="https://github.com/Dragonarlo/Arlodragon"></a>
+<a href="https://github.com/Dragonarlo/Arlodragon"><img title="Watching" src="https://github.com/Dragonarlo/Arlodragon"></a>
   
 ## SETUP FOR DRA-GON AI BOT
 

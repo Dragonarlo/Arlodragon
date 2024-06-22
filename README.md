@@ -2,7 +2,7 @@
 
 
 
-dragon-ai is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Dragon-ai is here to assist you.
+𝙳ragon-ai is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Dragon-ai is here to assist you.
 
 ## Key Features
 

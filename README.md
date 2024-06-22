@@ -47,7 +47,7 @@
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
  
- ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Dragonarlo/Arlodragon)***
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Dragonarlo/Arlodragon&template=https://github.com/Dragonarlo/Arlodragon)***
 
  ## CONTACT DEVELOPER
 

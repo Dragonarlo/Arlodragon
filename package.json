@@ -1,6 +1,6 @@
 {
-  "name": "zokou-2.0",
-  "version": "2.0.0",
+  "name": "𝙳𝚛𝚊𝚐𝚘𝚗-𝚊𝚒",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Zokou",
+    "𝙳𝚛𝚊𝚐𝚘𝚗",
     "whatsapp",
     "whatsapp-bot",
-    "Faouz995"
+    "𝙳𝚁𝙰𝙶𝙾𝙽"
   ],
-  "author": "Faouz995",
+  "author": "𝙳𝚁𝙰𝙶𝙾𝙽",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",

@@ -27,7 +27,7 @@
 
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Beltahmd/beltah-md/fork"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-blue" alt="FORK BELTAH-MD REPO" width="150"></a>
+<a href="https://github.com/Dragonarlo/Arlodragon"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-blue" alt="FORK BELTAH-MD REPO" width="150"></a>
 
 ## GET YOUR SESSION ID: 
 
@@ -47,37 +47,33 @@
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
  
- ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Beltahmd/beltah-md&template=https://github.com/Beltahmd/beltah-md.git)***
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fan-author%2FArlodragon)***
 
  ## CONTACT DEVELOPER
 
-⏣REACH BELTAH-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/254114141192)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/beltah254) 
+⏣REACH BELTAH-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/254702713600)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/ARLODRAGON) 
 
 ## CONTRIBUTIONS
 
-Contributions to BELTAH-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to DRA-GON AI BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
   ## THANKS TO MY FELLOW DEV FOR;
 
-    [FRANCE KING] 
+    [BELTAH] 
     
 Who added commands (uptime, ping, vv, ss, repo); <br>
 
-    [GIFTED TECH]
-    
-Who helped in commands addition 
-(ai, dalle, gpt4, gpt, starting up message for bot, updated index. Js) ;
 
 ## License
 
-The WhatsApp Bot 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot DRA-GON is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 🌟 THANK YOU FOR CHOOSING BELTAH-MD 🌟
 
-## DEVELOPERS :
+## DEVELOPER :
 
-- [**BELTAH TECH**](https://github.com/Beltahmd)
-- [**FRANCE KING**](https://github.com/franceking1)
-- [**GIFTED TECH**](https://github.com/mouricedevs)
+- [**ARLODRAGON**](https://github.com/dragonarlo)
 
-★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©2024
+   
+
+★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙳𝚁𝙰𝙶𝙾𝙽-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖.©24
